@@ -6,6 +6,9 @@
   --                                                                       --
   --      For use with ECE 298 Experiment 7                                --
   --      UIUC ECE Department                                              --
+  
+  --	MODIFIED BY CHRIS DANIELS AND DANIEL KALININ FOR USE IN
+  --	"LUNAR LANDER" FALL 2018
   ---------------------------------------------------------------------------*/
 
 #include <stdio.h>
