@@ -1,1 +1,1 @@
-# Lunar-Lander
+This project implemented the arcade classic Lunar Lander as a System on Chip on an FPGA DE2-115 board. The SoC made use of a NIOS II CPU that calculated all game logic. This logic was communicated to HDL written in SystemVerilog, and it was used to determine what to draw to a VGA screen that was plugged into the board. Note the provided code here is non-compilable/synthesizable, because it only features code written by our team, and not some previous provided code we built upon. A demonstration of the project can be seen here(sorry for somewhat low quality): 
