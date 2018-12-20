@@ -11,6 +11,10 @@
 //                                                                       --
 //    For use with ECE 385 Lab 8                                         --
 //    University of Illinois ECE Department                              --
+//
+//	MODIFIED BY CHRIS DANIELS AND DANIEL KALININ FOR USE IN
+//	"LUNAR LANDER" FALL 2018
+//
 //-------------------------------------------------------------------------
 
 // color_mapper: Decide which color to be output to VGA for each pixel.
